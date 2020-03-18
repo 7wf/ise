@@ -1,6 +1,6 @@
 import { Ise } from '../lib'
 
-import ProxyTransport from './transports/proxy-transport'
+import ProxyTransport from './utils/proxy-transport'
 
 describe('Ise', () => {
     /**
