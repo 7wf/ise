@@ -1,6 +1,6 @@
 {
     "name": "ise",
-    "description": "Just a simple logger.",
+    "description": "A simple logging library.",
     "version": "1.0.0",
     "homepage": "https://github.com/7wf/ise",
     "license": "MIT",
