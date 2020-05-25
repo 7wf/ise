@@ -20,7 +20,7 @@
         "@commitlint/travis-cli": "^8.3.5",
         "@types/jest": "^25.2.3",
         "@types/node": "^13.13.9",
-        "@typescript-eslint/eslint-plugin": "^2.22.0",
+        "@typescript-eslint/eslint-plugin": "^2.34.0",
         "@typescript-eslint/parser": "^2.34.0",
         "cz-conventional-changelog": "3.1.0",
         "eslint": "^6.8.0",
